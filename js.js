@@ -54,7 +54,7 @@ win.scroll(function (event) {
 
 function magnifySketch(div) {
     var className = div.getAttribute("class");
-    if (className == "premag") {
+    if (className === "premag") {
         div.className = "magnified";
     } else {
         div.className = "premag";
