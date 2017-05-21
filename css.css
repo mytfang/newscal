@@ -365,9 +365,7 @@
 FADE IN IMAGES   
 */
         
-        .fancy-load {
-            opacity: 1;
-        }
+        .fancy-load {}
         
         .come-in {
             transform: translateY(80px);
