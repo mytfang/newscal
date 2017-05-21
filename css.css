@@ -63,6 +63,7 @@
         h4 {
             padding: 0 5vw;
             margin-bottom: 20px;
+            line-height: 1.25em;
         }
         
         h1 {
@@ -320,7 +321,6 @@
         }
         
         .ideas {
-            padding: 4vh 0vw;
             padding-bottom: 3em;
         }
         
