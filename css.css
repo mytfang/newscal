@@ -365,7 +365,13 @@
 FADE IN IMAGES   
 */
         
-        .fancy-load {}
+        .fancy-load {
+            opacity: 0;
+        }
+        
+        .already-visible {
+            opacity: 1;
+        }
         
         .come-in {
             transform: translateY(80px);
